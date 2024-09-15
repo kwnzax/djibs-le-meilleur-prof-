@@ -1,0 +1,31 @@
+body { 
+    text-align: center;
+    background-color: white;
+    color:white;
+    font-size: 3em;
+    text-decoration: none;
+}
+h1{ 
+    font-size: 2.5em;
+    font-family: 'bebas neue', sans-serif ;
+    background: linear-gradient(180deg,#9BC995,#edbfc6); 
+}
+a{
+    text-decoration: none;
+}
+em {
+    color: #EDBFC6;
+    font-style: normal;
+}
+p {
+    color :#737373;
+}
+a:visited {
+    color: black;
+}
+.icone:hover {
+    opacity: 0.5;
+}
+img:hover{ 
+    opacity: 0.8;
+}
